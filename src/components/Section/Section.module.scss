@@ -1,0 +1,13 @@
+.section {
+  padding-top: 50px;
+  @media screen and (min-width: 1024px) {
+    width: 400px;
+  }
+  @media screen and (min-width: 1200px) {
+    width: 500px;
+  }
+}
+.title {
+  margin-bottom: 20px;
+  font-size: 32px;
+}
